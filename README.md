@@ -1,2 +1,3 @@
-# cpp_repo_template
-A template repo to clone from
+# Cpp_Repo_Template
+## template repo
+### A Public Template Repo To Clone From
